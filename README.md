@@ -1,8 +1,6 @@
 # Python-Handbook
-My Python learning notes and practice notebooks.  
 This repository contains 22 Jupyter notebooks covering Python concepts from basics to advanced.
-
-# Notebooks
+****Notebooks
 1. Python Basics  
 2. Python Loops and Control Statements  
 3. Python Operators  
